@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <!-- SEO相关 -->
   
-  <link rel="canonical" href="https://wwweb.ml/posts/b018da77"/>
+  <link rel="canonical" href="https://wwweb.eu.org/posts/b018da77"/>
   <!-- 渲染优化 -->
     <meta http-equiv='x-dns-prefetch-control' content='on' />
       <link rel='dns-prefetch' href='https://unpkg.com'>
@@ -41,7 +41,7 @@
   
 <meta property="og:type" content="article">
 <meta property="og:title" content="立身当强 待人当弱">
-<meta property="og:url" content="https://wwweb.ml/posts/b018da77">
+<meta property="og:url" content="https://wwweb.eu.org/posts/b018da77">
 <meta property="og:site_name" content="ww的个人博客">
 <meta property="og:description" content="身体说好累，我要躺平，我要睡觉，头脑说给我反省，要精进，要追上，要超越。 回顾前半生，每件小事都是天启，你不会知道现在无心做的某件事会在很多年后成为你人生中很重要的一步棋；你不会知道今天受的委屈、吞下的情绪在很多年后相比它伴随的成长和成绩，根本不值一提。 顺从己心，无问西东。">
 <meta property="og:locale" content="zh_CN">
@@ -1755,7 +1755,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
     debug: "env",
     cdn: {"js":{"app":"/js/app.js","parallax":"/js/plugins/parallax.js","rightMenu":"/js/plugins/rightMenu.js","rightMenus":"/js/plugins/rightMenus.js","sites":"/js/plugins/tags/sites.js","friends":"/js/plugins/tags/friends.js","contributors":"/js/plugins/tags/contributors.js","search":"/js/search/hexo.js"},"css":{"style":"/css/style.css"}},
     default: {"avatar":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/avatar/round/3442075.svg","link":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/link/8f277b4ee0ecd.svg","cover":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/cover/76b86c0226ffd.svg","image":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/image/2659360.svg"},
-    lastupdate: new Date(1666514484236),
+    lastupdate: new Date(1666660131089),
     sidebar: {
       for_page: ["blogger","category","tagcloud","donate"],
       for_post: ["toc"],
@@ -2491,7 +2491,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
           
 <div id="l_main" class=''>
   <article itemscope itemtype="http://schema.org/Article" class="article post white-box reveal md shadow floatable blur article-type-post" id="post" itemscope itemprop="blogPost">
-  <link itemprop="mainEntityOfPage" href="https://wwweb.ml/posts/b018da77">
+  <link itemprop="mainEntityOfPage" href="https://wwweb.eu.org/posts/b018da77">
   <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
     <meta itemprop="name" content="ww的个人博客">
   </span>
@@ -2630,7 +2630,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
                 
               
                 
-                  <p>本文永久链接是：<a href="https://wwweb.ml/posts/b018da77">https://wwweb.ml/posts/b018da77</a></p>
+                  <p>本文永久链接是：<a href="https://wwweb.eu.org/posts/b018da77">https://wwweb.eu.org/posts/b018da77</a></p>
                 
               
             </blockquote>
@@ -2675,7 +2675,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <a class="-mob-share-qq" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://wwweb.ml/posts/b018da77&title=立身当强 待人当弱 - ww的个人博客&summary="
+          target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://wwweb.eu.org/posts/b018da77&title=立身当强 待人当弱 - ww的个人博客&summary="
           
           >
           
@@ -2687,7 +2687,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <a class="-mob-share-qzone" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://wwweb.ml/posts/b018da77&title=立身当强 待人当弱 - ww的个人博客&summary="
+          target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://wwweb.eu.org/posts/b018da77&title=立身当强 待人当弱 - ww的个人博客&summary="
           
           >
           
@@ -2699,7 +2699,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
       
         <a class="-mob-share-weibo" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="http://service.weibo.com/share/share.php?url=https://wwweb.ml/posts/b018da77&title=立身当强 待人当弱 - ww的个人博客&summary="
+          target="_blank" href="http://service.weibo.com/share/share.php?url=https://wwweb.eu.org/posts/b018da77&title=立身当强 待人当弱 - ww的个人博客&summary="
           
           >
           
@@ -3688,7 +3688,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
 </script>
 
 
-  <script type="application/ld+json">[{"@context":"http://schema.org","@type":"Organization","name":"ww的个人博客","url":"https://wwweb.ml/","logo":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}},{"@context":"http://schema.org","@type":"Person","name":"ww","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"},"url":"https://wwweb.ml/","sameAs":["https://github.com/volantis-x"],"description":"一个平凡的个人博客"},{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://wwweb.ml/","name":"ww的个人博客"}},{"@type":"ListItem","position":2,"item":{"@id":"https://wwweb.ml/categories/随笔/","name":"随笔"}},{"@type":"ListItem","position":3,"item":{"@id":"https://wwweb.ml//posts/b018da77","name":"立身当强 待人当弱"}}]},{"@context":"http://schema.org","@type":"WebSite","name":"ww的个人博客","url":"https://wwweb.ml/","keywords":"博客","description":"一个平凡的个人博客","author":{"@type":"Person","name":"ww","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"},"url":"https://wwweb.ml/","description":"一个平凡的个人博客"},"publisher":{"@type":"Organization","name":"ww的个人博客","url":"https://wwweb.ml/","logo":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}},"potentialAction":{"@type":"SearchAction","name":"Site Search","target":{"@type":"EntryPoint","urlTemplate":"https://wwweb.ml?s={search_term_string}"},"query-input":"required name=search_term_string"}},{"@context":"http://schema.org","@type":"BlogPosting","headline":"立身当强 待人当弱","description":"一个平凡的个人博客","inLanguage":"zh-CN","mainEntityOfPage":{"@type":"WebPage","@id":"https://wwweb.ml/posts/b018da77"},"author":{"@type":"Person","name":"ww","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"},"url":"https://wwweb.ml/"},"publisher":{"@type":"Organization","name":"ww的个人博客","logo":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}},"url":"https://wwweb.ml/posts/b018da77","wordCount":0,"datePublished":"2022-09-23T15:57:35.000Z","dateModified":"2022-10-22T18:00:45.675Z","articleSection":"随笔","keywords":"随笔","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}}]</script>
+  <script type="application/ld+json">[{"@context":"http://schema.org","@type":"Organization","name":"ww的个人博客","url":"https://wwweb.eu.org/","logo":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}},{"@context":"http://schema.org","@type":"Person","name":"ww","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"},"url":"https://wwweb.eu.org/","sameAs":["https://github.com/volantis-x"],"description":"一个平凡的个人博客"},{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://wwweb.eu.org/","name":"ww的个人博客"}},{"@type":"ListItem","position":2,"item":{"@id":"https://wwweb.eu.org/categories/随笔/","name":"随笔"}},{"@type":"ListItem","position":3,"item":{"@id":"https://wwweb.eu.org//posts/b018da77","name":"立身当强 待人当弱"}}]},{"@context":"http://schema.org","@type":"WebSite","name":"ww的个人博客","url":"https://wwweb.eu.org/","keywords":"博客","description":"一个平凡的个人博客","author":{"@type":"Person","name":"ww","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"},"url":"https://wwweb.eu.org/","description":"一个平凡的个人博客"},"publisher":{"@type":"Organization","name":"ww的个人博客","url":"https://wwweb.eu.org/","logo":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}},"potentialAction":{"@type":"SearchAction","name":"Site Search","target":{"@type":"EntryPoint","urlTemplate":"https://wwweb.eu.org?s={search_term_string}"},"query-input":"required name=search_term_string"}},{"@context":"http://schema.org","@type":"BlogPosting","headline":"立身当强 待人当弱","description":"一个平凡的个人博客","inLanguage":"zh-CN","mainEntityOfPage":{"@type":"WebPage","@id":"https://wwweb.eu.org/posts/b018da77"},"author":{"@type":"Person","name":"ww","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png"},"url":"https://wwweb.eu.org/"},"publisher":{"@type":"Organization","name":"ww的个人博客","logo":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}},"url":"https://wwweb.eu.org/posts/b018da77","wordCount":0,"datePublished":"2022-09-23T15:57:35.000Z","dateModified":"2022-10-22T18:00:45.675Z","articleSection":"随笔","keywords":"随笔","image":{"@type":"ImageObject","url":"https://unpkg.com/volantis-static@0.0.1654736714924/media/org.volantis/blog/favicon/android-chrome-192x192.png","width":192,"height":192}}]</script>
 
 
 
